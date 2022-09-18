@@ -6,11 +6,11 @@
 /*   By: tel-dana <tel-dana@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/21 12:06:40 by tel-dana          #+#    #+#             */
-/*   Updated: 2022/05/02 14:04:48 by tel-dana         ###   ########.fr       */
+/*   Updated: 2022/09/18 11:33:21 by tel-dana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../include/libft.h"
 
 static int	len_of_nb(long nb)
 {

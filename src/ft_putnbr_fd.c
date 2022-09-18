@@ -6,11 +6,12 @@
 /*   By: tel-dana <tel-dana@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/19 17:36:06 by tel-dana          #+#    #+#             */
-/*   Updated: 2022/04/21 16:04:06 by tel-dana         ###   ########.fr       */
+/*   Updated: 2022/09/18 11:34:35 by tel-dana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../include/libft.h"
+
 
 void	ft_putnbr_fd(int n, int fd)
 {

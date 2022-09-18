@@ -6,11 +6,12 @@
 /*   By: tel-dana <tel-dana@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/19 13:37:36 by tel-dana          #+#    #+#             */
-/*   Updated: 2022/04/19 16:59:57 by tel-dana         ###   ########.fr       */
+/*   Updated: 2022/09/18 11:34:55 by tel-dana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../include/libft.h"
+
 
 void	ft_striteri(char *s, void (*f)(unsigned int, char *))
 {

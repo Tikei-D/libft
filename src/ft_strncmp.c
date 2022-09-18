@@ -6,11 +6,12 @@
 /*   By: tel-dana <tel-dana@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/05 14:49:50 by tel-dana          #+#    #+#             */
-/*   Updated: 2022/04/09 16:10:46 by tel-dana         ###   ########.fr       */
+/*   Updated: 2022/09/18 11:35:20 by tel-dana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../include/libft.h"
+
 
 int	ft_strncmp(const char *s1, const char *s2, size_t n)
 {

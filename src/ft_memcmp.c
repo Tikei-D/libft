@@ -6,11 +6,12 @@
 /*   By: tel-dana <tel-dana@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/06 13:33:07 by tel-dana          #+#    #+#             */
-/*   Updated: 2022/04/08 15:26:12 by tel-dana         ###   ########.fr       */
+/*   Updated: 2022/09/18 11:34:03 by tel-dana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../include/libft.h"
+
 
 int	ft_memcmp(const void *s1, const void *s2, size_t n)
 {

@@ -6,11 +6,12 @@
 /*   By: tel-dana <tel-dana@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/11 11:21:39 by tel-dana          #+#    #+#             */
-/*   Updated: 2022/05/10 16:04:57 by tel-dana         ###   ########.fr       */
+/*   Updated: 2022/09/18 11:35:16 by tel-dana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../include/libft.h"
+
 
 char	*ft_strmapi(const char *s, char (*f)(unsigned int, char))
 {

@@ -6,11 +6,12 @@
 /*   By: tel-dana <tel-dana@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/06 14:07:47 by tel-dana          #+#    #+#             */
-/*   Updated: 2022/05/01 18:11:35 by tel-dana         ###   ########.fr       */
+/*   Updated: 2022/09/18 11:35:23 by tel-dana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../include/libft.h"
+
 
 char	*ft_strnstr(const char *haystack, const char *needle, size_t n)
 {

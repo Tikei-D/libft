@@ -6,11 +6,11 @@
 /*   By: tel-dana <tel-dana@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/06 12:30:57 by tel-dana          #+#    #+#             */
-/*   Updated: 2022/05/06 12:39:44 by tel-dana         ###   ########.fr       */
+/*   Updated: 2022/09/18 11:33:24 by tel-dana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../include/libft.h"
 
 void	ft_lstadd_back(t_list **lst, t_list *new)
 {

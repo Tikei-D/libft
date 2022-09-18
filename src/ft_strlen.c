@@ -6,11 +6,12 @@
 /*   By: tel-dana <tel-dana@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/29 10:34:56 by tel-dana          #+#    #+#             */
-/*   Updated: 2022/04/09 11:17:10 by tel-dana         ###   ########.fr       */
+/*   Updated: 2022/09/18 11:35:12 by tel-dana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../include/libft.h"
+
 
 size_t	ft_strlen(const char *str)
 {

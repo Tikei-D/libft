@@ -6,11 +6,12 @@
 /*   By: tel-dana <tel-dana@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/02 13:47:20 by tel-dana          #+#    #+#             */
-/*   Updated: 2022/04/19 14:09:20 by tel-dana         ###   ########.fr       */
+/*   Updated: 2022/09/18 11:34:07 by tel-dana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../include/libft.h"
+
 
 void	*ft_memcpy(void *dst, const void *src, size_t n)
 {

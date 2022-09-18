@@ -6,11 +6,12 @@
 /*   By: tel-dana <tel-dana@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/05 17:39:27 by tel-dana          #+#    #+#             */
-/*   Updated: 2022/04/23 15:02:08 by tel-dana         ###   ########.fr       */
+/*   Updated: 2022/09/18 11:34:00 by tel-dana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../include/libft.h"
+
 
 void	*ft_memchr(const void *s, int c, size_t n)
 {

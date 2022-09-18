@@ -6,11 +6,11 @@
 /*   By: tel-dana <tel-dana@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/28 17:14:17 by tel-dana          #+#    #+#             */
-/*   Updated: 2022/04/08 13:59:22 by tel-dana         ###   ########.fr       */
+/*   Updated: 2022/09/18 11:33:06 by tel-dana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../include/libft.h"
 
 int	ft_isalnum(int c)
 {

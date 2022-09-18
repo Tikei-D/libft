@@ -6,11 +6,12 @@
 /*   By: tel-dana <tel-dana@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/04 13:01:24 by tel-dana          #+#    #+#             */
-/*   Updated: 2022/04/08 15:38:12 by tel-dana         ###   ########.fr       */
+/*   Updated: 2022/09/18 11:35:41 by tel-dana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../include/libft.h"
+
 
 int	ft_toupper(int c)
 {

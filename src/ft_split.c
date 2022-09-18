@@ -6,11 +6,12 @@
 /*   By: tel-dana <tel-dana@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/25 15:10:04 by tel-dana          #+#    #+#             */
-/*   Updated: 2022/05/15 15:14:28 by tel-dana         ###   ########.fr       */
+/*   Updated: 2022/09/18 11:34:42 by tel-dana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../include/libft.h"
+
 
 static int	num_of_words(const char *s, char c)
 {

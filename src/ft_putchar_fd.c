@@ -6,11 +6,12 @@
 /*   By: tel-dana <tel-dana@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/19 17:02:12 by tel-dana          #+#    #+#             */
-/*   Updated: 2022/04/19 17:05:54 by tel-dana         ###   ########.fr       */
+/*   Updated: 2022/09/18 11:34:22 by tel-dana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../include/libft.h"
+
 
 void	ft_putchar_fd(char c, int fd)
 {

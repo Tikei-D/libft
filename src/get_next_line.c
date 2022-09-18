@@ -6,11 +6,12 @@
 /*   By: tel-dana <tel-dana@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/18 14:06:05 by tel-dana          #+#    #+#             */
-/*   Updated: 2022/09/05 16:45:15 by tel-dana         ###   ########.fr       */
+/*   Updated: 2022/09/18 11:35:50 by tel-dana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../include/libft.h"
+
 
 //Calls the function Read multiple times and, at each call, stores what is contained in the buffer into the stash using strjoin.  
 char	*read_and_stash(int fd, char *stash, char *buffer)
