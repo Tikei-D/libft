@@ -27,7 +27,7 @@ RM		=	rm -rf
 
 # Dir and file names
 NAME	=	libft.a
-SRCDIR	=	src/
+SRCDIR	=	./src/
 OBJDIR	=	bin/
 SRCS	=	$(wildcard $(SRCDIR)*.c)
 OBJS	=	$(patsubst $(SRCDIR)%.c,$(OBJDIR)%.o,$(SRCS))

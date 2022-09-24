@@ -6,7 +6,7 @@
 /*   By: tel-dana <tel-dana@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/04 15:45:01 by tel-dana          #+#    #+#             */
-/*   Updated: 2022/09/02 16:31:23 by tel-dana         ###   ########.fr       */
+/*   Updated: 2022/09/24 15:22:20 by tel-dana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,6 +17,7 @@
 # define BUFFER_SIZE 5
 # endif
 
+# include <stdarg.h>
 # include <stdio.h>
 # include <stdlib.h>
 # include <string.h>
@@ -88,5 +89,15 @@ char				*ft_strjoin_gnl(char *s1, char *s2);
 char				*ft_strchr_gnl(char *s, int c);
 void				*ft_calloc_gnl(int count, int size);
 char				*ft_substr_gnl(char *s, int start, int len);
+
+//printf
+void	ft_putchar(char c, int *ptr);
+void	ft_putstr(char *s, int *ptr);
+void	ft_putnbr(int nb, int *ptr);
+void	ft_putunsigned(unsigned int nb, int *ptr);
+void	ft_puthex(unsigned long nb, char ch, int *ptr);
+void	ft_putptr(unsigned long nb, int *ptr);
+void	print_format(va_list args, char ch, int *ptr);
+int		ft_printf(const char *str, ...);
 
 #endif
